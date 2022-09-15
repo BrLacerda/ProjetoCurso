@@ -1,0 +1,10 @@
+#menu{
+    background-color: black; display: flex; color: aquamarine;
+}
+#menu2 {
+    display: flex; background-color: gray; color: aquamarine; align-items: flex-end; justify-content: space-around; padding-right:
+    115px; padding-left: 30px;
+}
+#logo {
+    padding-right: 200px;
+}
