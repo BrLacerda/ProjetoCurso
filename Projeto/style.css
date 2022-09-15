@@ -1,10 +1,23 @@
+body { background-color: rgb(63, 142, 142);
+
+}
 #menu{
-    background-color: black; display: flex; color: aquamarine;
+     display: flex;
 }
 #menu2 {
-    display: flex; background-color: gray; color: aquamarine; align-items: flex-end; justify-content: space-around; padding-right:
-    115px; padding-left: 30px;
+    display: flex; background-color: gray; color: aquamarine; align-items: flex-end; justify-content: space-between; padding-right:
+    60px; padding-left: 30px;
 }
-#logo {
-    padding-right: 200px;
+#logo { background-color: black;
+    padding-right: 800px; padding-left: 40px;
+}
+#quem {
+    padding-right: 30px;
+}
+#hobb {
+    padding-right: 35px;
+}
+#ctt {
+    padding-right: 30px;
+
 }
