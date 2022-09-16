@@ -1,0 +1,26 @@
+body { background-color: #355C7D;
+
+}
+#menu{
+     display: flex;
+}
+#menu2 {
+    display: flex; background-color: #6C5B7B; color: #355C7D; align-items: flex-end; justify-content: space-between; padding-right:
+    60px; padding-left: 30px;
+}
+.logo { background-color: #F67280;
+    padding-right: 800px; padding-left: 40px;
+}
+#quem {
+    padding-right: 30px;
+}
+#hobb {
+    padding-right: 35px;
+}
+#ctt {
+    padding-right: 30px;
+
+}
+.text {
+    color: #C06C84;
+}
